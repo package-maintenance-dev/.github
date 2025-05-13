@@ -1,1 +1,1 @@
-# .github
+# 📦 package-maintenance.dev
